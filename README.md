@@ -1,4 +1,4 @@
-# Minecraft Lucky Blocks — Blender 3D Scene
+# Minecraft Lucky Blocks Blender 3D Scene
 
 A stylized 3D scene featuring two Minecraft-inspired Lucky Blocks in a field of tall grass, illuminated by a warm sunset.
 
